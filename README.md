@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/cf/bf/7f/cfbf7ffd6dde7b4bd4be383b4f1eb638.jpg)
+
 <h1 align="center">Hi 👋, I'm Megha Saxena</h1>
 <h3 align="center">🚀 Aspiring Web Developer | Navigating the Code at VIT - Year 3 🌐💻</h3>
 
