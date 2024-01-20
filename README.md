@@ -1,8 +1,6 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Megha+Saxena!;&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=200&background=7484FF00&center=true&vCenter=true&random=false&width=435&lines=Namaste+%F0%9F%99%8F;Hello+%F0%9F%91%8B;Annyeong+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;Konichiwa+%F0%9F%99%8C;Hola+%F0%9F%92%83%F0%9F%8F%BC;I+am+Megha+Saxena;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 </h1>
 
 <br>
@@ -10,7 +8,7 @@
   Hi, I'm Megha Saxena, Web Developer 👨‍💻 , Coder 🥷,  Learner 🦸‍♀️ from India 🇮🇳
   <br>
   <br>
-  🎓 Completed my pursuing my bacherlor's degree from <a href="https://www.vitbhopal.ac.in"> VIT Bhopal.</a>
+  🎓 Currently I am pursuing my bachelor's degree from <a href="https://www.vitbhopal.ac.in"> VIT Bhopal.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
@@ -61,7 +59,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Megha8122&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Megha8122&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Megha8122&show_icons=true&theme=react&border_color=red&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
