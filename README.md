@@ -5,7 +5,7 @@
 
 <br>
 <h3 align="center">
-  Hi, I'm Megha Saxena, Web Developer 👨‍💻 , Coder 🥷,  Learner 🦸‍♀️ from India 🇮🇳
+  Hi, I'm Megha Saxena, Web Developer 👨‍💻 , Coder 🥷 & Learner 🦸‍♀️ from India 🇮🇳
   <br>
   <br>
   🎓 Currently I am pursuing my bachelor's degree from <a href="https://www.vitbhopal.ac.in"> VIT Bhopal.</a>
