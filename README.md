@@ -4,7 +4,7 @@
 </h1>
 
 <br>
-<p align="center">
+<h4 align="center">
   Hi, I'm Megha Saxena, Web Developer 👨‍💻 , Coder 🥷,  Learner 🦸‍♀️ from India 🇮🇳
   <br>
   <br>
@@ -14,7 +14,7 @@
   <br>
   🧑‍💼 I’m currently working on front-end development
   <br>
-</p>
+</h4>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
