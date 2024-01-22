@@ -51,8 +51,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -69,3 +67,12 @@
     </a>
   </div>
 </p>
+
+<div align="center">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Megha8122&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
+</div>
