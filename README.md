@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,javascript,css" /><br>
-    <img src="https://skillicons.dev/icons?i=python,cpp,bootstrap,html,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,bootstrap,html,react,vscode,figma" />
 
   </a>
 </p>
@@ -43,7 +43,7 @@
 <h4>Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=django,numpy" />
   </a>
 </p>
 <hr>
